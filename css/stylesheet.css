@@ -1,12 +1,10 @@
 h1 {
-    color: red;
-}
-p {
-    color: blue;
-}
-h2 {
-    color: pink;
+    color: #3c00c7;
 }
 body {
-    background-color: yellow;
+    background-color: #ededed;
+}
+nav {
+    background-color: aquamarine;
+    text-align: center;
 }
