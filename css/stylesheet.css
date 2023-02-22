@@ -1,12 +1,22 @@
 h1 {
     color: #3c00c7;
     font-family: 'Montserrat', sans-serif;
+    text-align: center;
 }
 body {
-    background-color: #ededed;
+    background-color: beige;
 }
 nav {
     background-color: aquamarine;
-    text-align: center;
+    text-align: center; 
+}
+.grid-containner{
+    display: grid;
+}
+.image-container{
+    grid-column: 1 / span 12;
 }
 
+footer{
+    text-align: center;
+}
